@@ -22,6 +22,15 @@
       }
     ]
   },
+  "publications": [
+    {
+      "name": "TBA",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
   "work": [
     {
       "name": "Department of Computer and Information Science (IDA), Linköping University",
@@ -52,18 +61,6 @@
       "endDate": "2017-02-28",
       "summary": "Development and testing of in-vehicle voice assistance systems.",
       "highlights": ["Software Development", "Software Testing"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Global Crossroad",
-      "location": "Ayutthaya, Thailand",
-      "position": "English teacher",
-      "url": "https://www.globalcrossroad.com/",
-      "startDate": "2017-01-01",
-      "endDate": "2017-01-21",
-      "summary": "Volunteered to teach English in Wat Kudeelai School, Ayutthaya, Thailand",
-      "highlights": ["Certificated Volunteer"]
     }
   ],
   "education": [
@@ -101,37 +98,31 @@
       "courses": ["Information System Design and Implementation", "Computer Network", "Database Management"]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Global Crossroad",
+      "location": "Ayutthaya, Thailand",
+      "position": "English teacher",
+      "url": "https://www.globalcrossroad.com/",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-21",
+      "summary": "Volunteered to teach English in Wat Kudeelai School, Ayutthaya, Thailand",
+      "highlights": ["Certificated Volunteer"]
+    }
+  ],
   "awards": [
     {
       "title": "National Scholarship",
       "date": "2016-10-30",
       "awarder": "Ministry of Education of the People's Republic of China",
-      "url": "",
+      "url": "http://en.moe.gov.cn/",
       "summary": "Top 1 grade among all the students in our department."
     },
     {
       "title": "Outstanding Graduates",
       "date": "2018-06-01",
       "awarder": "Hefei University of Technology",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "TBA",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    }
-  ],
-  "publications": [
-    {
-      "name": "TBA",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
+      "url": "https://international.hfut.edu.cn/en/About_/About_HFUT.htm",
       "summary": ""
     }
   ],
@@ -207,24 +198,6 @@
         "Photography",
         "Gaming"
       ]
-    }
-  ],
-  "References": [
-    {
-      "name": "Senior Associate Professor Niklas Carlsson",
-      "summary": "My PhD supervisor",
-      "highlights": ["Security", "Systems", "Networks"],
-      "url": "https://www.ida.liu.se/~nikca89/"
-    }
-  ],
-  "projects": [
-    {
-      "name": "TBA",
-      "summary": "",
-      "highlights": [""],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
     }
   ]
 }

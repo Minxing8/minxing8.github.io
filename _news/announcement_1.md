@@ -1,14 +1,27 @@
 ---
 layout: post
-title: My First News in My PhD
+title: My first news in my PhD
 date: 2024-12-03 
 inline: false
 related_posts: false
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/news/2024birthdaycake.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Just want to put an image. Today was perfect. 
+</div>
+
 Today is my birthday. 
 
-I submitted my first paper two days ago. More work to be continued...
+I build my fisrt personal website today. 
+
+I submitted my first paper two days ago. 
+
+More work to be continued...
 
 ---
 
