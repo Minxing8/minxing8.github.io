@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://liu.se/'>Affiliation</a>. Minxingliu8 AT gmail DOT com
+subtitle: <a href='https://liu.se/'>Affiliation</a>. Contact minxingliu8 AT gmail DOT com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: minxing.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>B-huset, Entrance 29, Room 2B:436</p>
-    <p>581 83 Linköping</p>
-    <p>Sweden</p>
+    <p>B-huset, Room 2B:436</p>
+    <p>Linköping University</p>
+    <p>581 83 Linköping, Sweden</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
