@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper Accepted at WPES @ ACM CCS 2025"
+title: "Paper Accepted to WPES @ ACM CCS 2025"
 date: 2025-10-17
 inline: false
 related_posts: false

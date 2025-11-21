@@ -26,3 +26,4 @@ Prior to that, I earned an M.S. in Computer Science from Syracuse University in 
 
 Now, as a PhD researcher, I’m diving into privacy challenges in VLMs and ReID models, and working on (sports) video understanding, multi-object tracking, and identification.
 
+{: .text-left}
