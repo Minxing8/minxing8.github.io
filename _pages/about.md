@@ -24,5 +24,5 @@ Before starting my PhD, I worked as a Cybersecurity Engineer at China State Rail
 
 Prior to that, I earned an M.S. in Computer Science from Syracuse University in 2020 and a B.Eng. in Information Management and Information Systems from Hefei University of Technology in 2018. During these years, I gained strong programming skills, experience in system design, and a passion for research, while also building my leadership and teamwork abilities. I also completed an internship as a Software Engineer at iFLYTEK from November 2016 to February 2017 in Hefei, Anhui, China. During this time, I was involved in the development and testing of in-vehicle voice assistance systems, gaining valuable hands-on experience in software development and quality assurance.
 
-Now, as a PhD researcher, I’m diving into privacy challenges in generative models (like diffusion models and vision-language models) and working on object tracking and identification in (sports) videos. I am also interested in video synthesis. 
+Now, as a PhD researcher, I’m diving into privacy challenges in VLMs and ReID models, and working on (sports) video understanding, multi-object tracking, and identification.
 
