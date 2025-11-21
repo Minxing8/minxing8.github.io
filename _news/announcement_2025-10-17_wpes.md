@@ -33,7 +33,7 @@ related_posts: false
       <div class="col-12">
         {% include figure.liquid
            loading="eager"
-           path="assets/img/news/CCS2025_3.jpg"
+           path="assets/img/news/CCS2025_3.JPG"
            title="CCS 2025"
            class="img-fluid rounded shadow-sm"
         %}
