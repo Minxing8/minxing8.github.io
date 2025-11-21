@@ -6,19 +6,21 @@ inline: false
 related_posts: false
 ---
 
-<div class="row justify-content-center">
-  <div class="col-md-6 col-lg-5 mb-3">
-    {% include figure.liquid loading="eager"
+<div class="row justify-content-center g-3 mb-3">
+  <div class="col-md-5">
+    {% include figure.liquid
+       loading="eager"
        path="assets/img/news/CCS2025_1.jpg"
        title="CCS 2025"
-       class="img-fluid rounded z-depth-1"
+       class="img-fluid rounded shadow-sm"
     %}
   </div>
-  <div class="col-md-6 col-lg-5 mb-3">
-    {% include figure.liquid loading="eager"
+  <div class="col-md-5">
+    {% include figure.liquid
+       loading="eager"
        path="assets/img/news/CCS2025_2.jpg"
        title="CCS 2025"
-       class="img-fluid rounded z-depth-1"
+       class="img-fluid rounded shadow-sm"
     %}
   </div>
 </div>
