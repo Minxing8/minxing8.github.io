@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I’m a PhD student in Computer Science at Linköping University, Sweden. My supervisor is Senior Associate Professor [Niklas Carlsson](https://www.ida.liu.se/~nikca89/). My research focuses on machine learning, computer vision, security & privacy, and sports analytics.
+Hi! I’m a PhD student in Computer Science at Linköping University, Sweden. My supervisor is Professor [Niklas Carlsson](https://www.ida.liu.se/~nikca89/). My research focuses on machine learning, computer vision, security & privacy, and sports analytics.
 
 Before starting my PhD, I worked as a Cybersecurity Engineer at China State Railway Group from 2021 to 2023. My work involved developing and deploying cybersecurity infrastructures and defending against cyberattacks—a challenging and rewarding experience that deepened my technical and problem-solving skills.
 

@@ -17,7 +17,7 @@ related_posts: false
 
 Today is my birthday. 
 
-I build my fisrt personal website today. 
+I build my first personal website today. 
 
 I submitted my first paper two days ago. 
 
